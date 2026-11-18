@@ -122,7 +122,8 @@ Plan and understand the detailed functionality of an existing or future scenario
 <img width="1162" height="936" alt="hos6" src="https://github.com/user-attachments/assets/06d27164-5171-42a1-ac2e-33d9a660f3ae" />
 
 
-
+# NAME : IJAS J
+# REG NO : 212225230102
 
 
 # RESULT
